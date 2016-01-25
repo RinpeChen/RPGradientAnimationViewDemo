@@ -1,0 +1,2 @@
+# RPGradientAnimationViewDemo
+CAGradientLayer实现色差动画(封装成RPGradientAnimationView)
